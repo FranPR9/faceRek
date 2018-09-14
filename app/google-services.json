@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "138009710193",
+    "firebase_url": "https://facerek-82591.firebaseio.com",
+    "project_id": "facerek-82591",
+    "storage_bucket": "facerek-82591.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:138009710193:android:2bba7b71799f24ee",
+        "android_client_info": {
+          "package_name": "com.weex.franciscopaniagua.facerek"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "138009710193-c9efsh1qsv86p4116d7i54k8rvtfele1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9gwzd3BJTKl_PF2_2F0dz2OSl9lkInaY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
